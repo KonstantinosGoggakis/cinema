@@ -57,7 +57,7 @@
 
 ## 🚀 Running the App
 
-### 1. Backend Setup (`mvp/api`)
+### . Setup 
 ```bash
 cd mvp/api
 npm install
