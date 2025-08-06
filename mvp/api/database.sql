@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS kgongakis22b_db1;
-USE kgongakis22b_db1;
+CREATE DATABASE IF NOT EXISTS "YOUR DB NAME";
+USE "YOUR DB NAME";
 -- Drop tables in order to avoid FK conflicts
 DROP TABLE IF EXISTS reservations;
 DROP TABLE IF EXISTS movies;
