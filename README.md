@@ -56,7 +56,8 @@
 ---
 
 ## 🚀 Running the App
-
+you have to install in your phone the Expo go and scan the QR code that, 
+is gonna appear when you run the program
 ### . Setup 
 ```bash
 cd mvp/api
