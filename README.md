@@ -64,9 +64,6 @@ cd mvp/api
 npm install
 node server.js
 
-# Create a .env file with your DB and JWT details
-npm start
-
 ### 2. FrontEnd ('mvp/table-reservation-app')
 cd mvp/table-reservation-app
 npm install
